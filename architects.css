@@ -10,3 +10,21 @@ header{
     background: rgba(255, 144, 14, 0.10);
     padding: 50px 200px;
 }
+nav{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+nav > ul {
+    display: flex;
+}
+
+nav li {
+    margin-right: 30px;
+    font-weight: 500;
+    list-style: none;
+    font-size: 1rem;
+    text-decoration: none;
+    color: #424242;
+}
