@@ -3,4 +3,10 @@
 
 * {
 font-family: "Work Sans";
-font-size: 64px;
+font-size: 20px;
+}
+
+header{
+    background: rgba(255, 144, 14, 0.10);
+    padding: 50px 200px;
+}
